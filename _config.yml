@@ -1,15 +1,15 @@
 title: <p align="center">Rohit Jaiswal</p>
 logo: /assets/img/logo.jpg
 description:
-<p align="center">
-<a href="/assets/docs/Rohit_Jaiswal_Python_Developer.docx">Resume</a> |
-<a href="https://www.linkedin.com/in/rohit-jaiswal-84137b18/">LinkedIn</a> |
-<a href="https://github.com/rohit2503">GitHub</a>
-
+ <p align="center">
+ <a href="/assets/docs/Rohit_Jaiswal_Python_Developer.docx">Resume</a> |
+ <a href="https://www.linkedin.com/in/rohit-jaiswal-84137b18/">LinkedIn</a> |
+ <a href="https://github.com/rohit2503">GitHub</a>
+ 
  <br>   
  I am working as Senior Development Engineer in Python, Django, Rest API.
  I have knowledge in domains like Banking, Real-State, Retail.
  Worked with companies Emtec, ATOS and FIS.
  <br>
-  </p>
+ </p>
 theme: jekyll-theme-minimal
