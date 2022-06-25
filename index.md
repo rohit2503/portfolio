@@ -1,15 +1,9 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Rohit Jaiswal Resume
 
 # GroceryApp
 
 Simple Grocercy App done via Angularjs to try my hands-on.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rohit2503/angular)
+
+<center><img src="images/grocery.png"/></center>
